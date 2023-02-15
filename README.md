@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Master en webs Full Stack: Angular, Node, Laravel, Symfony +**
 
-- 👨‍💻 All of my projects are available at [https://pedromr78.github.io/Portfolio/] (https://pedromr78.github.io/Portfolio/)
-
+- 👨‍💻 All of my projects are available at [https://pedromr78.github.io/Portfolio/]
 - 📫 How to reach me **peropela336@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
